@@ -17,3 +17,42 @@ They allow developers to:
 - **Centralized VCS** – Single central server (e.g., SVN)
 - **Distributed VCS** – Every user has a full copy (e.g., Git)
 
+---
+
+## 🔹 What is Git?
+Git is a **distributed version control system** used to track changes in source code during software development.
+
+### Key Benefits:
+- Fast and reliable
+- Supports branching & merging
+- Offline work possible
+- Widely used in DevOps & CI/CD
+
+---
+
+## 🔹 What is GitHub?
+GitHub is a **cloud-based platform** that hosts Git repositories and enables collaboration.
+
+### Git vs GitHub:
+| Git | GitHub |
+|---|---|
+| Version control tool | Hosting & collaboration platform |
+| Works locally | Works online |
+| CLI-based | UI + CLI |
+
+---
+
+## 🔹 Git Installation & Configuration (Linux)
+
+Install "git" in 
+    - Amazon Linux: sudo yum install git
+    - debian/Ubuntu: sudo apt install git
+
+Check version of git:
+    git --version
+
+Configure git:
+    git config --global user.name "Your Name"
+    git config --global user.email "your@email.com"
+
+
