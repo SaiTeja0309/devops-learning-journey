@@ -44,15 +44,15 @@ GitHub is a **cloud-based platform** that hosts Git repositories and enables col
 
 ## 🔹 Git Installation & Configuration (Linux)
 
-Install "git" in 
-    - Amazon Linux: sudo yum install git
-    - debian/Ubuntu: sudo apt install git
+**Install "git" in**:
+- Amazon Linux: sudo yum install git
+- debian/Ubuntu: sudo apt install git
 
-Check version of git:
-    git --version
+**Check version of git**:
+- git --version
 
-Configure git:
-    git config --global user.name "Your Name"
-    git config --global user.email "your@email.com"
+**Configure git**:
+- git config --global user.name "Your Name"
+- git config --global user.email "your@email.com"
 
 
